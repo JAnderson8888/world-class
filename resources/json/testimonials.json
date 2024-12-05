@@ -1,0 +1,28 @@
+{
+    "testimonials": [
+        {
+            "name": "Customer 1",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Eu rhoncus platea rhoncus blandit potenti pretium ante dictum. Et malesuada pretium orci; aptent tellus lacinia. Scelerisque ipsum dapibus vehicula nisl lacus iaculis."
+        },
+        {
+            "name": "Customer 2",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Eu rhoncus platea rhoncus blandit potenti pretium ante dictum. Et malesuada pretium orci; aptent tellus lacinia. Scelerisque ipsum dapibus vehicula nisl lacus iaculis."
+        },
+        {
+            "name": "Customer 3",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Eu rhoncus platea rhoncus blandit potenti pretium ante dictum. Et malesuada pretium orci; aptent tellus lacinia. Scelerisque ipsum dapibus vehicula nisl lacus iaculis."
+        },
+        {
+            "name": "Customer 4",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Eu rhoncus platea rhoncus blandit potenti pretium ante dictum. Et malesuada pretium orci; aptent tellus lacinia. Scelerisque ipsum dapibus vehicula nisl lacus iaculis."
+        },
+        {
+            "name": "Customer 5",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Eu rhoncus platea rhoncus blandit potenti pretium ante dictum. Et malesuada pretium orci; aptent tellus lacinia. Scelerisque ipsum dapibus vehicula nisl lacus iaculis."
+        },
+        {
+            "name": "Customer 6",
+            "content": "Lorem ipsum odor amet, consectetuer adipiscing elit. Eu rhoncus platea rhoncus blandit potenti pretium ante dictum. Et malesuada pretium orci; aptent tellus lacinia. Scelerisque ipsum dapibus vehicula nisl lacus iaculis."
+        }
+    ]
+}
